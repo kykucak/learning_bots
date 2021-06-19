@@ -6,6 +6,6 @@ async def set_default_commands(dp):
         [
             types.BotCommand("start", "Start the bot"),
             types.BotCommand("help", "Get help info about the bot"),
-            types.BotCommand('form', "Fill in the form")
+            types.BotCommand("kick", "Kick user by reply message")
         ]
     )

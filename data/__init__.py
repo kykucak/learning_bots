@@ -1,0 +1,1 @@
+from .permissions import get_read_only_permission
